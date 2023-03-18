@@ -87,7 +87,7 @@ author:
   employer         : "The University of British Columbia
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "jbonneau@mail.ubc.ca"
+  email            : #"jbonneau@mail.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
