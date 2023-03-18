@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jérémie Bonneau"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to this page in construction,
+I am a PhD student at The University of British Columbia in Vancouver (British Columbia) in the environmental fluid mechanics group. My work is supervised by Dr. Bernard Laval (UBC) and Dr. Derek Mueller (Carleton University). 
+My research focuses on ice-ocean interactions in Canadian Arctic glacial fjords. More specifically, I study how the ocean circulation is influenced by coastal ice structures (tidewater glaciers, ice shelves) and in return how the fate of these ice structures is linked to the ocean circulation. My main field site is Milne Fiord, on the north coast of Ellesmere Island. Every summer during fieldwork in Milne Fiord, we collect water profiles and service the oceanographic moorings. Since researchers have been going to Milne Fiord since 2011, this provides an observational record more than a decade long. I use these observations to validate a three-dimensional numerical model of the ocean which is used to study the circulation inside Milne Fiord and on the coastal shelf. 
 
+The questions I am asking are: 1) What are the main mechanisms driving the circulation and the heat fluxes in Milne Fiord? 2) How are the ice structures in Milne Fiord influencing the circulation and heat fluxes? and 3) How will this change in the future? Although these questions have been partly answered for Greenlandic fjords, there is still a need to improve our understanding of these systems. This is especially true for Canadian Arctic glacial fjords, less studied than their Greenlandic cousins. 
+
+When I am not working on my computer or in the field, you can find me skiing in the mountains around Vancouver (November to June), mountain biking (June-September) or fly fishing (October-November). Please feel free to email me for any questions on the works I do.  
 
 
 For more info
