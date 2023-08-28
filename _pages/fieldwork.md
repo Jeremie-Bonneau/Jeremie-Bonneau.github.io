@@ -6,7 +6,7 @@ permalink: /fieldwork/
 #---
 
 --!>
-Photos from recent fieldwork are included below.
+Photos from fieldwork.
 
 # Field work in the Canadian Arctic
 
