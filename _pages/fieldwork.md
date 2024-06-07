@@ -40,5 +40,5 @@ Milne Ice Shelf 2023: Oscar out for a paddle in a rift
 Lake Tahoe 2023: Oscar and Nick deploying the Glider for tests
 <img src="../images/glider_tahoe_2023.JPG" alt="Photo 5" width="800"/>
 
-Amundsen Sea 2024: Testing the LISST particule sizer in Pine Island Bay from the RV Araon
+Amundsen Sea 2024: Deploying the LISST particule sizer in Pine Island Bay from the RV Araon
 <img src="../images/LISST.jpg" alt="Photo 6" width="600"/>
