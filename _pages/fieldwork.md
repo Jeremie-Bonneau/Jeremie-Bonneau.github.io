@@ -11,7 +11,7 @@ Photos from some of the fieldwork I was lucky enough to be part of. Thanks to al
 Milne Ice Shelf 2019: Campsite on the ice shelf, glorious day
 <img src="../images/2019_21.JPG" alt="Photo 1" width="800"/>
 
-Quesnel Lake 2019: Brody rigging up the CTD in Quesnel, the Queen of the lake
+Quesnel Lake 2019: Brody rigging up the CTD in Quesnel, the Queen of lakes
 <img src="../images/brody_ctd.JPG" alt="Photo 1" width="800"/>
 
 Amundsen Sea 2020: Out on the zodiac to deploy the vertical microstructure profiler (VMP) to measure turbulence near Dotson Ice Shelf
