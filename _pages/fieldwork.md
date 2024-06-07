@@ -7,6 +7,8 @@ permalink: /fieldwork/
 
 Photos from some of the fieldwork I was lucky enough to be part of. Thanks to all the people I met on the way, which made these adventures extra-fun!
 
+Deeks Lake 2019: Kelly and Bob back from a CTD profile
+<img src="../images/deeks_2019.jpg" alt="Photo 1" width="800"/>
 
 Milne Ice Shelf 2019: Campsite on the ice shelf, glorious day
 <img src="../images/2019_21.JPG" alt="Photo 1" width="800"/>
