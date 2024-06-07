@@ -16,7 +16,7 @@ main:
     url: /cv/
     
   - title: "Fieldwork"
-  #  url: /fieldwork/
+    url: /fieldwork/
     
   #- title: "Guide"
   #  url: /markdown/
