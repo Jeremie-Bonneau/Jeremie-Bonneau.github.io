@@ -7,7 +7,7 @@ permalink: /fieldwork/
 
 Photos from some of the fieldwork I was lucky enough to be part of. Thanks to all the people I met on the way, which made these adventures extra-fun!
 
-Milne Fiord 2018: Drew profiling after pulling the mooring
+Milne Fiord 2018: Drew profiling after the mooring recovery
 <img src="../images/drew_milne_2018.JPG" alt="Photo 1" width="800"/>
 
 Deeks Lake 2019: Kelly and Bob back from a CTD profile
