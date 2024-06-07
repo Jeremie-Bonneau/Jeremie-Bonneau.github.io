@@ -14,10 +14,10 @@ Amundsen Sea 2020: Out on the zodiac to deploy the vertical microstructure profi
 <img src="../images/zodiac.jpg" alt="Photo 2" width="800"/>
 
 Talbot Bay 2021: Water bottle sampling near Wykeham Glacier, while moored on a small iceberg. Photo Éric Brossier
-<img src="../images/talbot_bottle_2021.JPG" alt="Photo 3" width="500"/>
+<img src="../images/talbot_bottle_2021.jpg" alt="Photo 3" width="500"/>
 
 Talbot Bay 2021: A visitor. Photo Éric Brossier
-<img src="../images/bear_2021.JPG" alt="Photo 3" width="500"/>
+<img src="../images/bear_2021.jpg" alt="Photo 3" width="500"/>
 
 Milne Fiord 2022: Alex looking for a spot to dip the CTD near the grounding line of Milne Glacier
 <img src="../images/alex_ctd.JPG" alt="Photo 3" width="500"/>
