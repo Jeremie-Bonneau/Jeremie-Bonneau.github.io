@@ -5,7 +5,7 @@ permalink: /fieldwork/
 #  image: /assets/images/Banner.png
 ---
 
-Photos from fieldwork.
+Photos from some of the fieldwork I had the chance to participate. Thanks to all the people I met on the way, which made these adventures extra-fun!
 
 Milne Ice Shelf 2019: Campsite on the ice shelf, glorious day
 <img src="../images/2019_21.JPG" alt="Photo 1" width="800"/>
