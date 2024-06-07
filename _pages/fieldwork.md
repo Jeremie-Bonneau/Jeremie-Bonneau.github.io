@@ -7,6 +7,9 @@ permalink: /fieldwork/
 
 Photos from some of the fieldwork I was lucky enough to be part of. Thanks to all the people I met on the way, which made these adventures extra-fun!
 
+Quesnel Lake 2019: Brody rigging up the CTD in Quesnel, the Queen of the lake
+<img src="../images/brody_ctd.JPG" alt="Photo 1" width="800"/>
+
 Milne Ice Shelf 2019: Campsite on the ice shelf, glorious day
 <img src="../images/2019_21.JPG" alt="Photo 1" width="800"/>
 
