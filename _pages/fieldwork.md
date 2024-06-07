@@ -1,5 +1,5 @@
 ---
-title: Field work
+title: Fieldwork
 permalink: /fieldwork/
 <!-- header:
 #  image: /assets/images/Banner.png
