@@ -10,7 +10,7 @@ Photos from fieldwork.
 
 # Field work in the Canadian Arctic
 
-<!-- <img src="/assets/images/June1.jpg" width="450"> <img src="/assets/images/June3.jpg" width="450">
+<!-- <img src="/assets/images/2019_21.JPG" width="450"> <img src="/assets/images/June3.jpg" width="450">
 
 # <img src="/assets/images/June2.jpg" width="1000">
 
