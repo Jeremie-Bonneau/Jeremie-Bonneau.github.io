@@ -10,6 +10,8 @@ Photos from fieldwork.
 Field work in the Canadian Arctic
 ![Camp site image](../images/2019_21.JPG)
 
+Milne Fiord 2022: Alex looking for a spot to dip the CTD
+![rift mooring](../images/alex_ctd.JPG)
 
 Milne Ice Shelf 2023: Oscar taking notes on our very elaborate mooring inside a rift
 ![rift mooring](../images/Oscar_mooring.JPG)
