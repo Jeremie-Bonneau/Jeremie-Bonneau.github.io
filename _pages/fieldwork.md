@@ -18,3 +18,6 @@ Milne Ice Shelf 2023: Oscar taking notes on our very elaborate mooring inside a 
 
 Milne Ice Shelf 2023: Oscar out for a paddle in a rift
 <img src="../images/oscar_packraft.JPG" alt="Photo 1" width="800"/>
+
+Amundsen Sea 2024: Testing LISST particul sizer in Pine Island Bay from the RV Araon
+<img src="../images/LISST.jpg" alt="Photo 1" width="600"/>
