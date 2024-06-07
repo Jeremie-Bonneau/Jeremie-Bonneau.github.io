@@ -10,7 +10,7 @@ Photos from fieldwork.
 Field work in the Canadian Arctic
 ![Camp site image](../images/2019_21.JPG)
 
-<img src="https://github.com/Jeremie-Bonneau/Jeremie-Bonneau.github.io/images/alex_ctd.JPG" width="300">
+<img src="https://github.com/Jeremie-Bonneau/Jeremie-Bonneau.github.io/images/alex_ctd.JPG" width="300" height="300">
 
 Milne Fiord 2022: Alex looking for a spot to dip the CTD
 ![rift mooring](../images/alex_ctd.JPG)
