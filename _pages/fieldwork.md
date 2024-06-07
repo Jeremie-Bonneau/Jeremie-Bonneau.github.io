@@ -11,7 +11,7 @@ Milne Ice Shelf 2019: Campsite on the ice shelf, glorious day
 <img src="../images/2019_21.JPG" alt="Photo 1" width="800"/>
 
 Amundsen Sea 2020: Out on the zodiac to deploy the vertical microstructure profiles (VMP) to measure turbulence near Dotson Ice Shelf
-<img src="../images/zodiac.jog" alt="Photo 2" width="800"/>
+<img src="../images/zodiac.jpg" alt="Photo 2" width="800"/>
 
 Milne Fiord 2022: Alex looking for a spot to dip the CTD near the grounding line of Milne Glacier
 <img src="../images/alex_ctd.JPG" alt="Photo 3" width="500"/>
