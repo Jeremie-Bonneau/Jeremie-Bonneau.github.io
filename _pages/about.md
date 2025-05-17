@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to this page in construction,
+Welcome to this page!
 
 I am a postoctoral researcher at The University of British Columbia in Vancouver (British Columbia) in the environmental fluid mechanics group.  
 My research focuses on ice-ocean interactions in Canadian Arctic glacial fjords. More specifically, I study how the ocean circulation is influenced by coastal ice structures (tidewater glaciers, ice shelves) and in return how the fate of these ice structures is linked to the ocean circulation. My main field site is Milne Fiord, on the north coast of Ellesmere Island. Every summer during fieldwork in Milne Fiord, we collect water profiles and service the oceanographic moorings. Since researchers have been going to Milne Fiord since 2011, this provides an observational record more than a decade long. I use these observations to validate a three-dimensional numerical model of the ocean which is used to study the circulation inside Milne Fiord and on the coastal shelf. 
